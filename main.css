@@ -3,5 +3,5 @@ html, body{
     background: linear-gradient(90deg, green, limegreen, lime);
     padding: 20px;
     color:red;
-    text-align: center;
+    font-size: 22px;
 }
