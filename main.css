@@ -1,0 +1,4 @@
+html, body{
+    margin: 0 auto;
+    background: linear-gradient(90deg, green, limegreen, lime);
+}
